@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode - code &amp; notes
+[LeetCode notes](https://github.com/SaoYan/LeetCode/wiki). 
